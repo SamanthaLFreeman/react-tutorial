@@ -1,6 +1,6 @@
 import React from 'react';
-import CardContainer from './CardContainer/CardContainer';
-import SearchForm from './SearchForm/SearchForm';
+import CardContainer from '../CardContainer/CardContainer';
+import SearchForm from '../SearchForm/SearchForm';
 import './App.css';
 
 class App extends React.Component {
